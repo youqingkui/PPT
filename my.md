@@ -1,7 +1,7 @@
 title: 基于Web的小区物业管理系统
 author:
   name: 黄远魁
-  twitter: youqingkui.cn
+
   url: http://youqingkui.cn
 theme: sudodoki/reveal-cleaver-theme
 output: basic.html
@@ -25,8 +25,8 @@ output: basic.html
 ```javascript
 {
 	"holderName" : "友情",
-	"phoneNum" : "14773004767",
-	"identityNum" : "431025199207154015",
+	"phoneNum" : "**********",
+	"identityNum" : "********",
 	"date" : "2014-05-12",
 	"fllorName" : "101",
 	"_id" : ObjectId("53700d3df4b67fa7029170bc")
